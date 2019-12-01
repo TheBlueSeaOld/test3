@@ -1,0 +1,14 @@
+{
+    "name": "oldman/test3",
+    "description": "composer",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "liu",
+            "email": "379533792@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
